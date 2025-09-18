@@ -1,4 +1,3 @@
-print("I am kundan")
-print("i am dinkar")
-
+print("I am Ashutosh")
+print("i am rahul")
 
